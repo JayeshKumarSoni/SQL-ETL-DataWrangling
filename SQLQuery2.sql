@@ -97,7 +97,7 @@ when SoldAsVacant = 'N' then 'No' else SoldAsVacant end
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
--- Remove Duplicates
+--  
 
 
 with rownumcte as (
